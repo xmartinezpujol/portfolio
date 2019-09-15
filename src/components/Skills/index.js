@@ -36,7 +36,7 @@ function Skills(props) {
   return (
     <View padding="40px 0" direction="column" style={{ background }}>
       <View container align="center" style={{ maxWidth: 1100, marginBottom: 20 }}>
-        <img src={`/assets/svg/${icon}.svg`} width="50" alt={icon} />
+        <img src={`./assets/svg/${icon}.svg`} width="50" alt={icon} />
         <Text style={{ marginLeft: 20 }} type="h1.w">{title}</Text>
       </View>
       <View container align="center" style={{ maxWidth: 1100, flexWrap: 'wrap' }}>

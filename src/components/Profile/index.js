@@ -12,7 +12,7 @@ function Profile(props) {
     <View direction="column" align="center" padding="40px 0" type="blue_light">
       <figure>
         <StyledAvatar
-          src="/assets/img/xmp.jpeg"
+          src="./assets/img/xmp.jpeg"
           alt="Xavier Martínez Pujol"
         />
         <StyledAvatarCaption>Xavier Martínez Pujol</StyledAvatarCaption>
