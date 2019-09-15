@@ -1,0 +1,18 @@
+language: node_js
+
+node_js:
+  - stable
+
+## Cache NPM folder and Cypress binary
+## to avoid downloading Cypress again and again
+cache:
+  directories:
+    - ~/.npm
+    - ~/.cache
+
+install:
+  - npm install -g codecov
+  - npm install
+
+script:
+  - npm run test && codecov
