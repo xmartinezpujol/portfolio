@@ -1,13 +1,37 @@
 {
+  "social": [
+    {
+      "name": "github",
+      "url": "https://github.com/xmartinezpujol"
+    },
+    {
+      "name": "codepen",
+      "url": "http://codepen.io/xmjol/"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/xmjol/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/xmjol"
+    },
+    {
+      "name": "behance",
+      "url": "https://www.behance.net/xmjol"
+    }
+  ],
   "education": [{
+    "id": "uoc",
     "title": "Degree in Multimedia",
-    "institution": "UOC",
+    "place": "UOC",
     "time": "2013 - Now",
     "desc": "3 With Honors - Average marks 9+."
   },
   {
+    "id": "sedeta",
     "title": "High School",
-    "institution": "IES La Sedeta",
+    "place": "IES La Sedeta",
     "time": "2005",
     "desc": ""
   }],
@@ -15,42 +39,42 @@
     {
       "id": "rakuten-tv",
       "title": "Frontend Engineer",
-      "enterprise": "Rakuten TV",
+      "place": "Rakuten TV",
       "time": "Now",
       "desc": "Creation of the new UI for Web & SmartTVs."
     },
     {
       "id": "xceed",
       "title": "Lead Frontend Developer",
-      "enterprise": "Xceed",
+      "place": "Xceed",
       "time": "1 year, 6 months",
       "desc": "Architecture of the whole React stack for Xceed + Symfony Backend."
     },
     {
       "id": "movetia",
       "title": "Senior Frontend Developer",
-      "enterprise": "Movetia",
+      "place": "Movetia",
       "time": "5 months",
       "desc": "Frontend development for spanish bank companies. Agile development in a team of 10+ professionals."
     },
     {
       "id": "thelis",
       "title": "Web Developer",
-      "enterprise": "Thelis Unix Data",
+      "place": "Thelis Unix Data",
       "time": "6 months",
       "desc": "WordPress templates and plugins (from scratch) for campsites and resorts. SEO & Optimization."
     },
     {
       "id": "freelance",
       "title": "Freelance",
-      "enterprise": "xmpdesign.com",
+      "place": "xmpdesign.com",
       "time": "6 years",
       "desc": "Freelance projects for small businesses, apps and websites."
     },
     {
       "id": "becario",
       "title": "Webmaster",
-      "enterprise": "UPC",
+      "place": "UPC",
       "time": "1 year",
       "desc": "Creation of a new website for Delegació d' Estudiants de ETSEIB."
     }],
