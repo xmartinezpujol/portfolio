@@ -1,0 +1,175 @@
+{
+  "education": [{
+    "title": "Degree in Multimedia",
+    "institution": "UOC",
+    "time": "2013 - Now",
+    "desc": "3 With Honors - Average marks 9+."
+  },
+  {
+    "title": "High School",
+    "institution": "IES La Sedeta",
+    "time": "2005",
+    "desc": ""
+  }],
+  "experience": [
+    {
+      "id": "rakuten-tv",
+      "title": "Frontend Engineer",
+      "enterprise": "Rakuten TV",
+      "time": "Now",
+      "desc": "Creation of the new UI for Web & SmartTVs."
+    },
+    {
+      "id": "xceed",
+      "title": "Lead Frontend Developer",
+      "enterprise": "Xceed",
+      "time": "1 year, 6 months",
+      "desc": "Architecture of the whole React stack for Xceed + Symfony Backend."
+    },
+    {
+      "id": "movetia",
+      "title": "Senior Frontend Developer",
+      "enterprise": "Movetia",
+      "time": "5 months",
+      "desc": "Frontend development for spanish bank companies. Agile development in a team of 10+ professionals."
+    },
+    {
+      "id": "thelis",
+      "title": "Web Developer",
+      "enterprise": "Thelis Unix Data",
+      "time": "6 months",
+      "desc": "WordPress templates and plugins (from scratch) for campsites and resorts. SEO & Optimization."
+    },
+    {
+      "id": "freelance",
+      "title": "Freelance",
+      "enterprise": "xmpdesign.com",
+      "time": "6 years",
+      "desc": "Freelance projects for small businesses, apps and websites."
+    },
+    {
+      "id": "becario",
+      "title": "Webmaster",
+      "enterprise": "UPC",
+      "time": "1 year",
+      "desc": "Creation of a new website for Delegació d' Estudiants de ETSEIB."
+    }],
+  "skills": [
+    {
+      "title": "React",
+      "percent": 100
+    },
+    {
+      "title": "React Native",
+      "percent": 100
+    },
+    {
+      "title": "Flow",
+      "percent": 80
+    },
+    {
+      "title": "Redux",
+      "percent": 100
+    },
+    {
+      "title": "Storybook",
+      "percent": 100
+    },
+    {
+      "title": "styled-comp",
+      "percent": 100
+    },
+    {
+      "title": "Symfony/Twig",
+      "percent": 20
+    },
+    {
+      "title": "Enzyme",
+      "percent": 80
+    },
+    {
+      "title": "Jest",
+      "percent": 100
+    },
+    {
+      "title": "Cypress",
+      "percent": 100
+    },
+    {
+      "title": "Router",
+      "percent": 100
+    },
+    {
+      "title": "HTML5",
+      "percent": 100
+    },
+    {
+      "title": "CSS3",
+      "percent": 100
+    },
+    {
+      "title": "ECMA6",
+      "percent": 100
+    },
+    {
+      "title": "Node.js",
+      "percent": 50
+    },
+    {
+      "title": "Express.js",
+      "percent": 50
+    },
+    {
+      "title": "REST API",
+      "percent": 80
+    },
+    {
+      "title": "GraphQL",
+      "percent": 20
+    },
+    {
+      "title": "Apollo",
+      "percent": 20
+    },
+    {
+      "title": "Git",
+      "percent": 100
+    },
+    {
+      "title": "Agile",
+      "percent": 100
+    },
+    {
+      "title": "SASS/LESS",
+      "percent": 100
+    },
+    {
+      "title": "Webpack",
+      "percent": 100
+    },
+    {
+      "title": "Npm",
+      "percent": 100
+    },
+    {
+      "title": "Docker",
+      "percent": 100
+    },
+    {
+      "title": "Jenkins",
+      "percent": 20
+    },
+    {
+      "title": "Rollbar / Sentry",
+      "percent": 100
+    },
+    {
+      "title": "Puns",
+      "percent": 200
+    }
+  ],
+  "images": [{
+    "title": "Xavier Martínez Pujol",
+    "url": "xmpup.jpeg"
+  }]
+}

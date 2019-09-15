@@ -38,10 +38,10 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: path.join(paths.SRC, 'index.html'),
     }),
-    new ExtractTextPlugin('quiz.styles.css'),
+    new ExtractTextPlugin('portfolio.styles.css'),
   ],
   output: {
-    filename: 'quiz_bundle.js',
+    filename: 'portfolio_bundle.js',
     path: paths.DEPLOY,
     publicPath: '/',
   },
