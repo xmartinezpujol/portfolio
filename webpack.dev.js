@@ -7,7 +7,7 @@ module.exports = merge(common, {
   devServer: {
     port: 5000,
     historyApiFallback: true,
-    contentBase: './build',
+    contentBase: './docs',
     open: true,
     openPage: '',
   },
